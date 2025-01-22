@@ -1,0 +1,12 @@
+Ctrl + / -> COMENTAR TEXTO EM HTML
+
+<p> - PARAGRAPH
+<h1> - HEADER (h1 to h6)
+<strong> - BOLD
+<em> - ITALIC
+lorem - LOREM IPSULUM
+
+<ul> -> UNORDERED LISTS 
+<li> -> LIST ITEM 
+
+<ol> -> ORDERED LISTS
