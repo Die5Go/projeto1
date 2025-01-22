@@ -10,3 +10,6 @@ lorem - LOREM IPSULUM
 <li> -> LIST ITEM 
 
 <ol> -> ORDERED LISTS
+
+LINKS AND IMAGES
+
